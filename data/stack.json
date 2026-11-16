@@ -1,0 +1,20 @@
+{
+  "base": "C:\\Users\\白东鑫\\work\\work29-userfeedback\\cc-gm-blend\\data\\base.png",
+  "layers": [
+    {
+      "path": "C:\\Users\\白东鑫\\work\\work29-userfeedback\\cc-gm-blend\\data\\layer_dark.png",
+      "mode": "normal",
+      "opacity": 0.5
+    },
+    {
+      "path": "C:\\Users\\白东鑫\\work\\work29-userfeedback\\cc-gm-blend\\data\\layer_grid.png",
+      "mode": "multiply",
+      "opacity": 0.35
+    },
+    {
+      "path": "C:\\Users\\白东鑫\\work\\work29-userfeedback\\cc-gm-blend\\data\\layer_glow.png",
+      "mode": "screen",
+      "opacity": 0.8
+    }
+  ]
+}
